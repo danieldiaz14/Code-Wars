@@ -1,4 +1,6 @@
 function orderWeight(strng) {
+  //thomas is gay
+  //yo that one girl had a fat ass
   if (strng.length == 0) {
     return '';
   }
